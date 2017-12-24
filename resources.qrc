@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/svg">
+        <file>tux.svg</file>
+    </qresource>
+</RCC>
